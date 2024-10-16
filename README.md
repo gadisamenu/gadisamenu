@@ -24,7 +24,7 @@ With 3+ years of hands-on experience in building scalable web applications, My f
 ✉️  Feel free to reach me at amegadbay@gmail.com
 
 ### 🛠️ Skills & Technologies
-- **Frontend:** Angular, React, NextJs, TypeScript, TailwindCSS, Bootstrap
+- **Frontend:** Angular, React, NextJs, TypeScript, TailwindCSS, Bootstrap, Flutter
 - **Backend:** ASP.NET core, Node.js, Express, MongoDB, PostgreSQL, MySQL
 - **Tools & Platforms:** Git, GitHub Actions, Cloudinary, Docker, Jira, Bitbucket,
 
