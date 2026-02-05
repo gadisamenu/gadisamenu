@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 #### Software Engineer | Full Stack Developer
 
-With 3+ years of hands-on experience in building scalable web applications, My focus is on constantly improving my skills and contributing to exciting projects.
+With 4+ years of hands-on experience in building scalable web applications, My focus is on constantly improving my skills and contributing to exciting projects.
 
 🌍  I'm based in Ethiopia  
 ✉️  Feel free to reach me at amegadbay@gmail.com
